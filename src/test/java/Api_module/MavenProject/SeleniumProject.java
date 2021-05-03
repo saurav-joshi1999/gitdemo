@@ -22,4 +22,9 @@ public void RestAPI() {
 	System.out.println("Rest API"); 
 }
 
+@Test
+public void RestAPI2() {
+	System.out.println("Rest API 2");
+}
+
 }
