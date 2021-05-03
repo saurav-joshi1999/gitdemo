@@ -7,6 +7,7 @@ public class SeleniumProject {
 	public void selenium() {
 		System.out.println("Selenium");
 		System.out.println("Selenium 2");
+		System.out.println("Selenium 3");
 	}
 
 }
