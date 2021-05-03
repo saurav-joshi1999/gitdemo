@@ -10,4 +10,16 @@ public class SeleniumProject {
 		System.out.println("Selenium 3");
 	}
 
+@Test
+public void Appium() {
+	System.out.println("Appium");
+	System.out.println("Appium 2");
+	System.out.println("Appium 3");
+
+}
+@Test
+public void RestAPI() {
+	System.out.println("Rest API"); 
+}
+
 }
