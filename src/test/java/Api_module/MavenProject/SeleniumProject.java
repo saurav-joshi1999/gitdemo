@@ -6,6 +6,7 @@ public class SeleniumProject {
 	@Test
 	public void selenium() {
 		System.out.println("Selenium");
+		System.out.println("Selenium 2");
 	}
 
 }
