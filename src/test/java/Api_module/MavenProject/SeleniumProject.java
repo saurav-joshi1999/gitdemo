@@ -8,6 +8,6 @@ public class SeleniumProject {
 		System.out.println("Selenium");
 		System.out.println("Selenium 2");
 		System.out.println("Selenium 3");
-	}
 
+	}
 }
